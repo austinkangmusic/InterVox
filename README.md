@@ -30,7 +30,13 @@ pip install -r requirements.txt
 
 ## Download an XTTS-v2 Model
 
-Choose one of the models below to download:
+First, create a directory and navigate to it:
+```bash
+mkdir XTTS-v2_models
+cd XTTS-v2_models
+```
+
+Now, choose one of the models below to download:
 
 **Yuki-Chan**
 ```bash
