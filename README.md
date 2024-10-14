@@ -1,34 +1,36 @@
-## Installation
-Get the folders.
-1.
+## Installation Guide
+
+### 1. Clone the InterVox repository
 ```bash
 git clone https://github.com/austinkangmusic/InterVox.git
 ```
 
-## cd to InterVox directory.
-2.
+### 2. Navigate to the InterVox directory
 ```bash
 cd InterVox
 ```
 
-## Create a virtual environment, activate it and find the path of the python exe to select the intepreter.
-3.
+### 3. Set up a virtual environment and activate it
 ```bash
 & "D:\Private Server\Apps\PYTHON VERSIONS\python310\python.exe" -m venv venv
 venv/Scripts/Activate
+```
+
+### 4. Find the path of the Python executable
+```bash
 Resolve-Path .\venv\Scripts\python.exe
 ```
 
-## Install the requirements.
-4.
+### 5. Install the required dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
+---
 
-## Choose a XTTS-v2 model to download.
-5.
-Here you go, without the numbers:
+## Download an XTTS-v2 Model
+
+Choose one of the models below to download:
 
 **Yuki-Chan**
 ```bash
@@ -60,9 +62,9 @@ git clone https://huggingface.co/Xerror/XTTS-v2_S_Dogg
 git clone https://huggingface.co/Xerror/XTTS-v2_SamuelL
 ```
 
-## Run.
-6.
+---
+
+### 6. Run the main script
 ```bash
 python main.py
 ```
-
