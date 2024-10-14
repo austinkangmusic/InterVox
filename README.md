@@ -26,9 +26,39 @@ pip install -r requirements.txt
 ```
 
 
+## Choose a XTTS-v2 model to download.
+5.
+Here you go, without the numbers:
 
+**Yuki-Chan**
+```bash
+git clone https://huggingface.co/Xerror/XTTS-v2_Yuki-Chan
+```
 
+**C3PO**
+```bash
+git clone https://huggingface.co/Xerror/XTTS-v2_C3PO
+```
 
+**Pain**
+```bash
+git clone https://huggingface.co/Xerror/XTTS-v2_pain
+```
+
+**PeterJarvis**
+```bash
+git clone https://huggingface.co/Xerror/XTTS-v2_PeterJarvis
+```
+
+**S_Dogg**
+```bash
+git clone https://huggingface.co/Xerror/XTTS-v2_S_Dogg
+```
+
+**SamuelL**
+```bash
+git clone https://huggingface.co/Xerror/XTTS-v2_SamuelL
+```
 
 ## Run.
 6.
