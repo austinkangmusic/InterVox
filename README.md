@@ -68,6 +68,9 @@ git clone https://huggingface.co/Xerror/XTTS-v2_S_Dogg
 git clone https://huggingface.co/Xerror/XTTS-v2_SamuelL
 ```
 
+**All models**
+```bash
+git clone https://huggingface.co/Xerror/XTTS-v2_models
 ---
 
 ### 6. Run the main script
